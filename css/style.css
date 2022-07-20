@@ -40,13 +40,19 @@ a {
 
 .logo {
   cursor: pointer;
+  width: 150px;
+}
+.logo img{
+  width: 100%;
 }
 
 .navbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 350px;
+  width: 420px;
+
+  font-size: 19px;
 }
 
 .user-login {
@@ -54,6 +60,8 @@ a {
   display: flex;
   align-items: center;
   cursor: pointer;
+
+  
 }
 
 .user-login:hover {
