@@ -6,7 +6,7 @@
     <strong>Stacks usadas:</strong>
     <br>
     <br>
-    <img src="https://alissonpeixer.github.io/iconStacks/assents/html-5-480px.svg" width="40px" alt="Html 5 Icone">
+    <img src="https://alissonpeixer.github.io/iconStacks/assents/html-5-480px.svg" width="40px" alt="HTML5 Icone">
     <img src="https://alissonpeixer.github.io/iconStacks/assents/css-3-480px.svg" width="40px" alt="CSS Icone">
     <br>
   </div>
