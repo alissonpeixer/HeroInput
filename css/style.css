@@ -19,6 +19,8 @@ body {
   background-position: center center;
   color: var(--white-ice);
   cursor: default;
+
+  transition: all 0.5s ease-out;
 }
 
 a {
@@ -64,11 +66,16 @@ a {
 }
 
 .user-register {
-  cursor: pointer;
   color: var(--white-ice);
   border: 1px solid var(--gray);
   border-radius: 32px;
   padding: 20px;
+}
+.user-register:hover {
+  cursor: pointer;
+  color: var(--whute);
+  border: 1px solid var(--whute);
+  transition: all 1s;
 }
 
 .main {
@@ -145,14 +152,11 @@ a {
   font-size: 20px;
   color: var(--black);
   background: var(--blue-marine-);
-
-
 }
 
 
 .btn-regiter button:hover {
   text-decoration: underline;
-
 }
 
 
