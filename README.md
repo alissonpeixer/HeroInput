@@ -27,5 +27,14 @@
   🔥 <strong>Alcançado:</strong> <a href="https://alissonpeixer.github.io/HeroInput/">Live Demo</a>
   </dl>
   <kbd>
-  <img src="https://media.discordapp.net/attachments/902734948270759937/999290963728019496/unknown.png?width=1333&height=671" alt="Uma print da proposta do desafio input">
+  <img src="https://media.discordapp.net/attachments/902734948270759937/999290963728019496/unknown.png?width=1333&height=671" alt="Uma print da proposta do desafio         input">
   </kbd>
+  
+<hr>
+<p align="center">
+    <br>
+    <span class="copyright">Desenvolvido por  <a href="https://github.com/alissonpeixer">Alisson Peixer</a></span><br><br>
+    <kdb>
+      <img src="https://avatars.githubusercontent.com/u/48291580" width="100px" >
+    </kdb>
+</p>
