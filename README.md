@@ -2,6 +2,16 @@
 
   ###### · Desafio Nivel-02 > Desafio-04 do curso input da <a href="https://codar.me/input">Codar.Me</a>
   <hr>
+  <div>
+    <strong>Stacks usadas:</strong>
+    <br>
+    <br>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40px" alt="Html 5 Icone">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="40px" alt="Css Icone">
+    <br>
+  </div>
+  <br>
+  <br>
   <dl>   
    🚀 <strong>Objetivo do desafio:</strong> Recriar a home page da <a href="https://codar.me/input">Codar.Me</a>
   </dl>
